@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(to right, violet, blue);
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
